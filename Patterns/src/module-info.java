@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mahes
+ *
+ */
+module Patterns {
+}
